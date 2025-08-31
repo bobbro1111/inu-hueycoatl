@@ -1,33 +1,33 @@
-inubot: The Ultimate Hueycoatl Automation Script
-Welcome to the official repository for bob-hueycoatl, an advanced automation script designed to conquer the Hueycoatl boss with unparalleled efficiency and reliability. Built on the inubot framework, this script is engineered to handle every aspect of the fight, from the initial quest to final victory, ensuring a seamless and profitable experience.
+bob-hueycoatl: The Ultimate Automation Script
+Welcome to the official repository for bob-hueycoatl, an advanced automation script designed to conquer complex, repetitive in-game challenges with unparalleled efficiency and reliability. Engineered as a sophisticated agent with a state machine, this script is designed to handle every aspect of a repetitive task, from initial setup to final completion, ensuring a seamless and profitable experience.
 
-Key Features  
-***Automatic Equipment Restocking:*** The script intelligently detects when your gear is degraded or consumed. It will automatically restock and repair your equipment, minimizing downtime between runs and ensuring you're always prepared for the next fight.
+Core Features
+Dynamic Inventory Management: The agent intelligently detects when your resources are degraded or consumed. It will automatically restock and repair your equipment, minimizing downtime between runs and ensuring you're always prepared for the next task.
 
-***Instancing and Hosting***: Whether you're a solo adventurer or running a team, the script can automatically enter a private instance and can even be configured for hosting, allowing it to manage a queue of players for group encounters.
+Instance and Queue Management: Whether you're a solo user or managing a team, the script can automatically enter a private instance and can even be configured for hosting, allowing it to manage a queue of users for group encounters.
 
-***Smart Thrall Utilization:*** To maximize damage per second, inubot seamlessly integrates thralls into its attack rotation. It will summon thralls at optimal times to provide a significant boost to your overall damage output.
+Optimized Resource Utilization: To maximize efficiency, the agent seamlessly integrates auxiliary units into its attack rotation. It will summon these units at optimal times to provide a significant boost to your overall output.
 
-***Special Attack Weaponry:*** The script has a sophisticated special attack logic. It will intelligently choose the best moment to unleash a special attack from your equipped weapon, ensuring the highest DPS and shorten the duration of each fight.
+Specialized Logic for High-Impact Actions: The script has a sophisticated logic for executing special attacks or high-impact actions. It will intelligently choose the best moment to unleash these actions, ensuring the highest rate of output and shortening the duration of each run.
 
-***Prayer Flicking:*** inubot’s core feature is its ability to perform perfect prayer flicks. This advanced technique allows the script to maintain near-infinite prayer points, negating the need for constant prayer potion consumption and significantly reducing trip costs.
+Advanced Resource Conservation: A core feature of the agent is its ability to perform perfect timing-based actions. This advanced technique allows the script to maintain near-infinite resources, negating the need for constant consumption and significantly reducing trip costs.
 
-***Dynamic Obstacle Dodging:*** The script features a smart pathing algorithm that allows it to react instantly to environmental hazards. It can dodge projectiles, avoid ground-based attacks, and navigate the boss arena safely, preventing unnecessary damage.
+Intelligent Pathing and Hazard Avoidance: The script features a smart pathing algorithm that allows it to react instantly to environmental hazards. It can dodge projectiles, avoid ground-based attacks, and navigate the arena safely, preventing unnecessary downtime.
 
-***Supplies Restocking:*** Before each run, the script will automatically restock your inventory with the required supplies, including food, potions, and runes. The script is highly customizable, allowing you to specify your preferred supplies and quantities.
+Supply Chain Automation: Before each run, the script will automatically restock your inventory with the required supplies, including consumables and components. The script is highly customizable, allowing you to specify your preferred supplies and quantities.
 
-***Child of the Sun Quest:*** For new accounts, inubot can handle the entire Child of the Sun quest automatically, ensuring you meet all the prerequisites for the boss encounter without any manual effort.
+Prerequisite Completion: For new setups, the agent can handle the entire prerequisite quest automatically, ensuring you meet all the requirements for the encounter without any manual effort.
 
 Getting Started
 1. To get started, follow these simple steps:
 
 2. Clone this repository to your local machine.
 
-3. Install all required dependencies (inubot jar).
+3. Install all required dependencies.
 
-4. Configure your IDE settings to output jar accordingly.
+4. Configure your development environment to output the necessary executable file.
 
-Launch the script through inubot and watch it work its magic!
+5. Launch the script and watch it work its magic.
 
 ***Disclaimer***
-Please be aware that using automation scripts in any game may be against the terms of service. Use this script at your own risk. DO NOT use scripts/services on any account you aren’t comfortable losing!
+Please be aware that using automation scripts in any environment may be against the terms of service. Use this script at your own risk. DO NOT use scripts/services on any account you aren’t comfortable losing!
